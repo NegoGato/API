@@ -1,0 +1,8 @@
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Release\WebApiContta.Domain.dll
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Release\WebApiContta.Domain.pdb
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Release\MongoDB.Bson.dll
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Release\MongoDB.Driver.dll
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Release\MongoDB.Bson.xml
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Release\MongoDB.Driver.xml
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\obj\Release\WebApiContta.Domain.dll
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\obj\Release\WebApiContta.Domain.pdb

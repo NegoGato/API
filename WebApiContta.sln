@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiContta", "WebApiContta\WebApiContta.csproj", "{D3D2D73B-37FB-443D-A4DC-362D3E711198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiContta.Tests", "WebApiContta.Tests\WebApiContta.Tests.csproj", "{654EF2E0-01D5-420C-AFD4-34AD8D6FB750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiContta.Data", "WebApiContta.Data\WebApiContta.Data.csproj", "{5BD5E01C-D7DC-4D03-8B07-D45C61A42A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiContta.Domain", "WebApiContta.Domain\WebApiContta.Domain.csproj", "{363EDD67-21C6-4E93-B108-CB568D77D375}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{773D1284-B403-4784-8496-DDE6F8D4EEC9}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://webapicontta.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebApiContta.Tests\\WebApiContta.Tests.csproj
+		SccProjectName1 = WebApiContta.Tests
+		SccLocalPath1 = WebApiContta.Tests
+		SccProjectUniqueName2 = WebApiContta\\WebApiContta.csproj
+		SccProjectName2 = WebApiContta
+		SccLocalPath2 = WebApiContta
+		SccProjectUniqueName3 = WebApiContta.Data\\WebApiContta.Data.csproj
+		SccProjectName3 = WebApiContta.Data
+		SccLocalPath3 = WebApiContta.Data
+		SccProjectUniqueName4 = WebApiContta.Domain\\WebApiContta.Domain.csproj
+		SccProjectName4 = WebApiContta.Domain
+		SccLocalPath4 = WebApiContta.Domain
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D2D73B-37FB-443D-A4DC-362D3E711198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D2D73B-37FB-443D-A4DC-362D3E711198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D2D73B-37FB-443D-A4DC-362D3E711198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D2D73B-37FB-443D-A4DC-362D3E711198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654EF2E0-01D5-420C-AFD4-34AD8D6FB750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654EF2E0-01D5-420C-AFD4-34AD8D6FB750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654EF2E0-01D5-420C-AFD4-34AD8D6FB750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654EF2E0-01D5-420C-AFD4-34AD8D6FB750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD5E01C-D7DC-4D03-8B07-D45C61A42A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD5E01C-D7DC-4D03-8B07-D45C61A42A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD5E01C-D7DC-4D03-8B07-D45C61A42A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD5E01C-D7DC-4D03-8B07-D45C61A42A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363EDD67-21C6-4E93-B108-CB568D77D375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363EDD67-21C6-4E93-B108-CB568D77D375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363EDD67-21C6-4E93-B108-CB568D77D375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363EDD67-21C6-4E93-B108-CB568D77D375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

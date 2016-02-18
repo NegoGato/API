@@ -1,0 +1,9 @@
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Debug\WebApiContta.Domain.dll
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Debug\WebApiContta.Domain.pdb
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Debug\MongoDB.Bson.dll
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Debug\MongoDB.Driver.dll
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Debug\MongoDB.Bson.xml
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\bin\Debug\MongoDB.Driver.xml
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\obj\Debug\WebApiContta.Domain.csprojResolveAssemblyReference.cache
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\obj\Debug\WebApiContta.Domain.dll
+C:\Visual Studio\Projetos\WebApiKennedy\WebApiContta\WebApiContta.Domain\obj\Debug\WebApiContta.Domain.pdb
